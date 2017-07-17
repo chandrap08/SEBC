@@ -9,3 +9,6 @@ rhui-load-balancers.conf
 
 # Writing db.properties
 sudo /usr/share/cmf/schema/scm_prepare_database.sh mysql -h ip-172-31-16-183.eu-west-1.compute.internal scm scm 
+```
+MFE: Why was the output not included?
+```
